@@ -1,2 +1,6 @@
 # Hotel-Booking-Cancellations-Analysis
-End-to-End analysis of hotel booking cancellations using Python, SQL, and Power BI 
+
+## Overview
+This Project takes a deep dive into hotel 
+booking data to understand 
+why cancellations happen and what hotels can do
